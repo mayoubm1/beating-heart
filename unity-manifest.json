@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T23:37:42.027Z",
+  "timestamp": "2026-05-04T21:42:13.364Z",
   "version": "1.3.0",
   "stats": {
     "hubsCount": 0,
@@ -15,91 +15,91 @@
         "id": "HUB-01",
         "n": "M2-3M Beating Heart",
         "s": "online",
-        "r": 99.89865234499517
+        "r": 99.87760157722022
       },
       {
         "id": "HUB-02",
         "n": "Egypt-Omics NGS Hub",
         "s": "online",
-        "r": 99.82698289960601
+        "r": 99.88518606636308
       },
       {
         "id": "HUB-03",
         "n": "Tawasol-Globe Network",
         "s": "online",
-        "r": 99.82450796345528
+        "r": 99.88764641206022
       },
       {
         "id": "HUB-04",
         "n": "Unified Command Center",
         "s": "online",
-        "r": 99.84479411286343
+        "r": 99.82885301990635
       },
       {
         "id": "HUB-05",
         "n": "OmniCog Harmony Node",
         "s": "online",
-        "r": 99.8505897855655
+        "r": 99.82888243348852
       },
       {
         "id": "HUB-06",
         "n": "Health-Tech Ecosystem",
         "s": "online",
-        "r": 99.8667790459407
+        "r": 99.84847915787687
       },
       {
         "id": "HUB-07",
         "n": "Digital Registry Hub",
         "s": "online",
-        "r": 99.8955260366736
+        "r": 99.89456030430274
       },
       {
         "id": "HUB-08",
         "n": "Adaptive Speech Node",
         "s": "online",
-        "r": 99.805990231944
+        "r": 99.85238580629891
       },
       {
         "id": "HUB-09",
         "n": "Multilingual-Broadcast",
         "s": "online",
-        "r": 99.86315193765965
+        "r": 99.83392133458139
       },
       {
         "id": "HUB-10",
         "n": "Security Monitor S-04",
         "s": "online",
-        "r": 99.83218137323513
+        "r": 99.86950184149569
       },
       {
         "id": "HUB-11",
         "n": "Humanity-Future Hub",
         "s": "online",
-        "r": 99.87823705544916
+        "r": 99.85729811453652
       },
       {
         "id": "HUB-12",
         "n": "Research Blueprint",
         "s": "online",
-        "r": 99.83824332524094
+        "r": 99.81276797950018
       },
       {
         "id": "HUB-13",
         "n": "Sovereign Innovation",
         "s": "syncing",
-        "r": 75.25573307586318
+        "r": 86.08397270932615
       },
       {
         "id": "HUB-14",
         "n": "Manus United Node",
         "s": "syncing",
-        "r": 81.97200388961572
+        "r": 86.86037587422328
       },
       {
         "id": "HUB-15",
         "n": "Innovative Ecosystem",
         "s": "syncing",
-        "r": 80.88816928283026
+        "r": 80.27910997459006
       },
       {
         "id": "HUB-16",
